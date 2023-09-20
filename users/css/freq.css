@@ -1,0 +1,10 @@
+#users{
+	background-color: #F5F5F5;
+	border: 2px black;
+}
+.round {
+	margin-right:10px;
+    border-radius: 100px; 
+    box-shadow: 0 0 0 2px black, 0 0 13px #333;
+   }
+
